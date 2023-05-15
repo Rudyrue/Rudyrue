@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi! I'm Rudyrue! 
 
-<!--
-**Rudyrue/Rudyrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15 year old writing Lua and Haxe code for fun.
 
-Here are some ideas to get you started:
+<details open>
+<summary><b>To connect with me:</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+ 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-hFOnf0ATzQRLqCsXino0w?style=social)
+[Discord](https://discordapp.com/users/369949680081174538)
+
+</p>
+
+</details>
+
+---
+
+<details open>
+ <summary> <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Rudyrue&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rudyrue&theme=tokyonight">
+</p>
+
+</details>
+
+-----
+[Credits](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/pr2tik1.md)
