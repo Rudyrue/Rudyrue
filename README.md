@@ -7,7 +7,7 @@ I'm a 15 year old writing Lua and Haxe code for fun.
 
 <p align = "center">
  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-hFOnf0ATzQRLqCsXino0w?style=social)
+[YouTube](https://www.youtube.com/channel/UC-hFOnf0ATzQRLqCsXino0w)
 [Discord](https://discordapp.com/users/369949680081174538)
 
 </p>
