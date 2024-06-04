@@ -1,6 +1,6 @@
 ## Hi! I'm Rudyrue! 
 
-I'm a 16 year old writing Lua and Haxe code for fun.
+I'm a 17 year old writing Lua and Haxe code for fun.
 
 <details open>
 <summary><b>To connect with me:</b></summary>
