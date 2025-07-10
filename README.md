@@ -1,32 +1,11 @@
-## Hi! I'm Rudyrue! 
+# my github page or smth idk lfmaoof
+im an 18 year old that likes playing and fucking with music/rhythm games  
+and also coding by coincidence
 
-I'm a 18 year old writing Lua and Haxe code for fun.
+don't expect me to be smart im just doing this stuff for fun
 
-<details open>
-<summary><b>To connect with me:</b></summary>
+<img src = "https://github-readme-stats.vercel.app/api?username=Rudyrue&show_icons=true&theme=tokyonight&line_height=27">
 
-<p align = "center">
- 
-[YouTube](https://www.youtube.com/channel/UC-hFOnf0ATzQRLqCsXino0w)
+<b>my socials:</b>
+[Bluesky](https://bsky.app/profile/rudyrue.bsky.social)
 [Discord](https://discordapp.com/users/369949680081174538)
-
-</p>
-
-</details>
-
----
-
-<details open>
- <summary> <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Rudyrue&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rudyrue&theme=tokyonight">
-</p>
-
-</details>
-
------
-[Credits](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/pr2tik1.md)
