@@ -1,5 +1,5 @@
 # my github page or smth idk lfmaoof
-im an 18 year old that likes playing and fucking with music/rhythm games  
+im an 19 year old that likes playing and fucking with music/rhythm games  
 and also coding by coincidence
 
 don't expect me to be smart im just doing this stuff for fun
